@@ -11,6 +11,20 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+::selection {
+    color: #d8d8d8;
+    background-color: #1d1d1d;
+}
+
+::-webkit-scrollbar {
+    width: 0.5em;
+    background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(216, 216, 216, 0.6);
+}
+
 header {
     /* sizing & positioning */
     width: 100%;
