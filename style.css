@@ -45,14 +45,14 @@ header h3 a {
     text-align: center;
     /* decor */
     text-decoration: none;
-    border-radius: 0.1em;
+    border-radius: 0.2em;
+    border: 0.1em solid #d8d8d8; 
     color: rgb(29, 29, 29);
     background-color: rgb(216, 216, 216);
     transition: 0.4s;
 }
 
 header h3 a:hover {
-    border: 0.1em solid #d8d8d8; 
     color: #d8d8d8;
     background: transparent;
 }
