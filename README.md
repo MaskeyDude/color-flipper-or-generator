@@ -12,5 +12,5 @@ Assalam U Alaikum, I made this by following <a href="https://youtu.be/3PHXvlpOkf
 
 <hr>
 <div align="center">
-<a href="https://maskeydude.github.io/color-flipper-or-generator/" target="_blank">Preview</a>
+<a href="https://maskeydude.github.io/color-flipper-or-generator/" target="_blank" >Preview</a>
 </div>
