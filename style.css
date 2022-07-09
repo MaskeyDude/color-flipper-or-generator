@@ -24,7 +24,24 @@ header {
     background-color: rgb(29, 29, 29);
 }
 
-header a {
+header h3 a {
+    /* sizing & positioning */
+    padding: 0.4em;
+    display: block;
+    text-align: center;
+    /* decor */
+    text-decoration: none;
+    border-radius: 0.2em;
+    color: rgb(29, 29, 29);
+    background-color: rgb(216, 216, 216);
+    transition: 0.4s;
+}
+
+header h3 a:hover {
+    color: #d8d8d8;
+}
+    
+nav a {
     /* sizing & positioning */
     padding: 0.4em;
     display: block;
@@ -34,7 +51,7 @@ header a {
     transition: 0.4s;
 }
 
-header a:hover {
+nav a:hover {
     border-radius: 0.2em;
     color: rgb(29, 29, 29);
     background-color: rgb(216, 216, 216);
