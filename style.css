@@ -39,6 +39,8 @@ header h3 a {
 
 header h3 a:hover {
     color: #d8d8d8;
+    border: 0.1em solid #d8d8d8; 
+    background-color: transparent;
 }
     
 nav a {
