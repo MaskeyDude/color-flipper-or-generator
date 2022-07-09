@@ -38,6 +38,7 @@ header h3 a {
 }
 
 header h3 a:hover {
+    padding: 0.2em;
     color: #d8d8d8;
     border: 0.1em solid #d8d8d8; 
     background: transparent;
