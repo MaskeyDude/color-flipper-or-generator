@@ -24,7 +24,7 @@ header {
     background-color: rgb(29, 29, 29);
 }
 
-nav a {
+header a {
     /* sizing & positioning */
     padding: 0.4em;
     display: block;
@@ -34,7 +34,7 @@ nav a {
     transition: 0.4s;
 }
 
-nav a:hover {
+header a:hover {
     border-radius: 0.2em;
     color: rgb(29, 29, 29);
     background-color: rgb(216, 216, 216);
