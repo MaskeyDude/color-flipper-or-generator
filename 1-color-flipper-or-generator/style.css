@@ -101,7 +101,7 @@ main {
     color: #d8d8d8;
 }
 
-.CG_Btn {
+.Btn {
     /* sizing & positioning */
     font-size: 1em;
     margin: 1em 0;
@@ -114,7 +114,7 @@ main {
     transition: 0.4s;
 }
 
-.CG_Btn:hover {
+.Btn:hover {
     cursor: pointer;
     font-weight: bold;
     color: #d8d8d8;

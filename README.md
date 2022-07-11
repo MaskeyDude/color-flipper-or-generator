@@ -1,6 +1,9 @@
 # javascript-projects-freecodecamp
 Assalam U Alaikum, I made this by following <a href="https://youtu.be/3PHXvlpOkf4">this</a> tutorial by <a href="https://github.com/john-smilga">John Smilga</a>.
 <hr>
+
+<h2 align="center">Color Flipper</h2>
+
 <h4>What this project taught me?</h4>
 - How to add and use event listeners
 <br>

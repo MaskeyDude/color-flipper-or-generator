@@ -1,8 +1,8 @@
 const Hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
-const CG_Btn = document.querySelector(".CG_Btn");
+const Btn = document.querySelector(".Btn");
 const Hex_Code = document.querySelector(".Hex_Code");
 
-CG_Btn?.addEventListener('click', function () {
+Btn?.addEventListener('click', function () {
     let Code = '#';
     for (let i = 0; i < 6; i++) {
         Code += Hex[Get_Random_Number()];
