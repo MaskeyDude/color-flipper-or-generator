@@ -24,7 +24,7 @@ btns.forEach(function (Counter_Btn) {
         }
 
         if (Count === 0) {
-            Counter_Value.style.color = "#1d1d1d";
+            Counter_Value.style.color = "#d8d8d8";
         }
 
         console.log(Count);
