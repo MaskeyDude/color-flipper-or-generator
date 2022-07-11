@@ -1,4 +1,4 @@
-# color-flipper-or-generator
+# javascript-projects-freecodecamp
 Assalam U Alaikum, I made this by following <a href="https://youtu.be/3PHXvlpOkf4">this</a> tutorial by <a href="https://github.com/john-smilga">John Smilga</a>.
 <hr>
 <h4>What this project taught me?</h4>
